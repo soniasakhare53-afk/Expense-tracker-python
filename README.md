@@ -14,7 +14,7 @@ A command-line based Expense Tracker built using **core Python** to manage daily
 
 ## 🛠 Technologies Used
 - Python 3
-- Core Python concepts (no external libraries)
+- Core Python concepts 
 
 ## ▶️ How to Run
 1. Ensure Python 3 is installed
