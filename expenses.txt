@@ -1,0 +1,4 @@
+today,2000.0,Food,hii i am sonia
+2026-01-22,1500.0,Travel,travel is something i cannot save on
+2026-09-06,3000.0,Rent,i am looking forward to search a better place with lower rent
+2026-02-22,4000.0,Shopping,10000
